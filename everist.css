@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 10vh;
+}
+.content a{
+    text-decoration: none;
+    color: black;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.2px;
+    text-align: right;
+}
+.content1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 90vh;
+}
+.content1 h2{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37.5px;
+    text-align: center;
+}
+.content1 button{
+    width: 136px;
+    height: 46px;
+    top: 439px;
+    left: 532px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    background: #270515;
+    color: #fff;
+}
+
+.container{
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+    width: 100%;
+}
+.navbar_links{
+    display: flex;
+    gap: 50px;
+}
+.banner_btn{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+.partner1{
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-between;
+}
+.partner2{
+    display: flex;
+    justify-content: space-between;
+}
+.partner3{
+    padding-top: 80px;
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-between;
+}
+.partner4{
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-between;
+    top: 1369px;
+    left: 433px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+}
+.partner4 button{
+    border: 2px solid #270515;
+    background: #270515;
+    color: #fff;
+    width: 333px;
+    height: 46px;
+}
+.partner5{
+    display: flex;
+    justify-content: space-between;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+}
+.partner5 p{
+    width: 85px;
+    height: 21px;
+    top: 1419px;
+    left: 605px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+button{
+    width: 197px;
+height: 46px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+background: #270515;
+color: #fff;
+}
+
+
+.content3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.Gtext_center{
+    text-align: center;
+    margin-top: 100px
+}
